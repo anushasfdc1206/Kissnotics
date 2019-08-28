@@ -7,4 +7,13 @@ public String hello() {
 return s;
   
 }
+  public void sum(){
+    
+    Integer i;
+    Integer j;
+    Integer K;
+    k = i+j;
+    system.debug('sum'+k);
+  
+  }
 }
